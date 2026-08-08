@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0202-happy-number](https://github.com/Gautamcodes24/LeetCode/tree/master/0202-happy-number) |
 | [0705-design-hashset](https://github.com/Gautamcodes24/LeetCode/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/Gautamcodes24/LeetCode/tree/master/0706-design-hashmap) |
 ## Math
 |  |
 | ------- |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0705-design-hashset](https://github.com/Gautamcodes24/LeetCode/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/Gautamcodes24/LeetCode/tree/master/0706-design-hashmap) |
 | [1929-concatenation-of-array](https://github.com/Gautamcodes24/LeetCode/tree/master/1929-concatenation-of-array) |
 ## Simulation
 |  |
@@ -54,12 +56,15 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0705-design-hashset](https://github.com/Gautamcodes24/LeetCode/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/Gautamcodes24/LeetCode/tree/master/0706-design-hashmap) |
 ## Design
 |  |
 | ------- |
 | [0705-design-hashset](https://github.com/Gautamcodes24/LeetCode/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/Gautamcodes24/LeetCode/tree/master/0706-design-hashmap) |
 ## Hash Function
 |  |
 | ------- |
 | [0705-design-hashset](https://github.com/Gautamcodes24/LeetCode/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/Gautamcodes24/LeetCode/tree/master/0706-design-hashmap) |
 <!---LeetCode Topics End-->
