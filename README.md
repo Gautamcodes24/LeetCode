@@ -67,4 +67,16 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0705-design-hashset](https://github.com/Gautamcodes24/LeetCode/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/Gautamcodes24/LeetCode/tree/master/0706-design-hashmap) |
+## String
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Gautamcodes24/LeetCode/tree/master/0020-valid-parentheses) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Gautamcodes24/LeetCode/tree/master/0020-valid-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Gautamcodes24/LeetCode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
