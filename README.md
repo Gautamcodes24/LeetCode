@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/Gautamcodes24/LeetCode/tree/master/0050-powx-n) |
 | [0202-happy-number](https://github.com/Gautamcodes24/LeetCode/tree/master/0202-happy-number) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Gautamcodes24/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Two Pointers
@@ -96,4 +97,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0152-maximum-product-subarray](https://github.com/Gautamcodes24/LeetCode/tree/master/0152-maximum-product-subarray) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/Gautamcodes24/LeetCode/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
