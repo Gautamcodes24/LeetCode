@@ -44,10 +44,12 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0226-invert-binary-tree](https://github.com/Gautamcodes24/LeetCode/tree/master/0226-invert-binary-tree) |
+| [0543-diameter-of-binary-tree](https://github.com/Gautamcodes24/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0226-invert-binary-tree](https://github.com/Gautamcodes24/LeetCode/tree/master/0226-invert-binary-tree) |
+| [0543-diameter-of-binary-tree](https://github.com/Gautamcodes24/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -56,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0226-invert-binary-tree](https://github.com/Gautamcodes24/LeetCode/tree/master/0226-invert-binary-tree) |
+| [0543-diameter-of-binary-tree](https://github.com/Gautamcodes24/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 ## Linked List
 |  |
 | ------- |
@@ -101,4 +104,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Gautamcodes24/LeetCode/tree/master/0050-powx-n) |
+## DP on Trees
+|  |
+| ------- |
+| [0543-diameter-of-binary-tree](https://github.com/Gautamcodes24/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 <!---LeetCode Topics End-->
