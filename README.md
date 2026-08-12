@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0036-valid-sudoku](https://github.com/Gautamcodes24/LeetCode/tree/master/0036-valid-sudoku) |
 | [0152-maximum-product-subarray](https://github.com/Gautamcodes24/LeetCode/tree/master/0152-maximum-product-subarray) |
+| [0605-can-place-flowers](https://github.com/Gautamcodes24/LeetCode/tree/master/0605-can-place-flowers) |
 | [0705-design-hashset](https://github.com/Gautamcodes24/LeetCode/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/Gautamcodes24/LeetCode/tree/master/0706-design-hashmap) |
 | [0739-daily-temperatures](https://github.com/Gautamcodes24/LeetCode/tree/master/0739-daily-temperatures) |
@@ -137,4 +138,8 @@ A collection of LeetCode questions to ace the coding interview!
 | [0098-validate-binary-search-tree](https://github.com/Gautamcodes24/LeetCode/tree/master/0098-validate-binary-search-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Gautamcodes24/LeetCode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Gautamcodes24/LeetCode/tree/master/0701-insert-into-a-binary-search-tree) |
+## Greedy
+|  |
+| ------- |
+| [0605-can-place-flowers](https://github.com/Gautamcodes24/LeetCode/tree/master/0605-can-place-flowers) |
 <!---LeetCode Topics End-->
