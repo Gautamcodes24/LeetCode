@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0042-trapping-rain-water](https://github.com/Gautamcodes24/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0152-maximum-product-subarray](https://github.com/Gautamcodes24/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Gautamcodes24/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0238-product-of-array-except-self](https://github.com/Gautamcodes24/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0605-can-place-flowers](https://github.com/Gautamcodes24/LeetCode/tree/master/0605-can-place-flowers) |
 | [0705-design-hashset](https://github.com/Gautamcodes24/LeetCode/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/Gautamcodes24/LeetCode/tree/master/0706-design-hashmap) |
@@ -262,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/Gautamcodes24/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [1480-running-sum-of-1d-array](https://github.com/Gautamcodes24/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 ## Trie
 |  |
