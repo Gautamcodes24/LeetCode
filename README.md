@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0050-powx-n](https://github.com/Gautamcodes24/LeetCode/tree/master/0050-powx-n) |
 | [0202-happy-number](https://github.com/Gautamcodes24/LeetCode/tree/master/0202-happy-number) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/Gautamcodes24/LeetCode/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1922-count-good-numbers](https://github.com/Gautamcodes24/LeetCode/tree/master/1922-count-good-numbers) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Gautamcodes24/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Gautamcodes24/LeetCode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Enumeration
 |  |
 | ------- |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/Gautamcodes24/LeetCode/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Gautamcodes24/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Array
 |  |
@@ -54,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0739-daily-temperatures](https://github.com/Gautamcodes24/LeetCode/tree/master/0739-daily-temperatures) |
 | [1472-design-browser-history](https://github.com/Gautamcodes24/LeetCode/tree/master/1472-design-browser-history) |
 | [1480-running-sum-of-1d-array](https://github.com/Gautamcodes24/LeetCode/tree/master/1480-running-sum-of-1d-array) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/Gautamcodes24/LeetCode/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1929-concatenation-of-array](https://github.com/Gautamcodes24/LeetCode/tree/master/1929-concatenation-of-array) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Gautamcodes24/LeetCode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/Gautamcodes24/LeetCode/tree/master/2300-successful-pairs-of-spells-and-potions) |
@@ -287,4 +290,16 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1472-design-browser-history](https://github.com/Gautamcodes24/LeetCode/tree/master/1472-design-browser-history) |
+## Backtracking
+|  |
+| ------- |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/Gautamcodes24/LeetCode/tree/master/1863-sum-of-all-subset-xor-totals) |
+## Bit Manipulation
+|  |
+| ------- |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/Gautamcodes24/LeetCode/tree/master/1863-sum-of-all-subset-xor-totals) |
+## Combinatorics
+|  |
+| ------- |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/Gautamcodes24/LeetCode/tree/master/1863-sum-of-all-subset-xor-totals) |
 <!---LeetCode Topics End-->
