@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0011-container-with-most-water](https://github.com/Gautamcodes24/LeetCode/tree/master/0011-container-with-most-water) |
 | [0036-valid-sudoku](https://github.com/Gautamcodes24/LeetCode/tree/master/0036-valid-sudoku) |
 | [0039-combination-sum](https://github.com/Gautamcodes24/LeetCode/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/Gautamcodes24/LeetCode/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/Gautamcodes24/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0090-subsets-ii](https://github.com/Gautamcodes24/LeetCode/tree/master/0090-subsets-ii) |
 | [0152-maximum-product-subarray](https://github.com/Gautamcodes24/LeetCode/tree/master/0152-maximum-product-subarray) |
@@ -296,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/Gautamcodes24/LeetCode/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/Gautamcodes24/LeetCode/tree/master/0040-combination-sum-ii) |
 | [0090-subsets-ii](https://github.com/Gautamcodes24/LeetCode/tree/master/0090-subsets-ii) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Gautamcodes24/LeetCode/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Bit Manipulation
