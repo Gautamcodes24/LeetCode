@@ -1,16 +1,13 @@
 class Solution:
     def permute(self, nums: List[int]) -> List[List[int]]:
         res = []
-        def dfs(pick,arr):
-            if len(arr) == len(nums):
+        def dfs(indx,arr):
+            if indx >= len(nums):
                 res.append(arr.copy())
                 return
-            for i in range(len(nums)):
-                if not pick[i]:
-                    arr.append(nums[i])
-                    pick[i] = True
-                    dfs(pick,arr)
-                    arr.pop()
-                    pick[i] = False
-        dfs([False]*len(nums) , [])
-        return res 
+            for i in range(indx , len(nums)):
+                arr[indx] , arr[i] = arr[i] , arr[indx]
+                dfs(indx+1 , arr)
+                arr[indx] , arr[i] = arr[i] , arr[indx]
+        dfs(0,nums)
+        return res
