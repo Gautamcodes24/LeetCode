@@ -189,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0020-valid-parentheses](https://github.com/Gautamcodes24/LeetCode/tree/master/0020-valid-parentheses) |
 | [0079-word-search](https://github.com/Gautamcodes24/LeetCode/tree/master/0079-word-search) |
+| [0131-palindrome-partitioning](https://github.com/Gautamcodes24/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0208-implement-trie-prefix-tree](https://github.com/Gautamcodes24/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/Gautamcodes24/LeetCode/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Gautamcodes24/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
@@ -226,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Gautamcodes24/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Gautamcodes24/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0131-palindrome-partitioning](https://github.com/Gautamcodes24/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0152-maximum-product-subarray](https://github.com/Gautamcodes24/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0337-house-robber-iii](https://github.com/Gautamcodes24/LeetCode/tree/master/0337-house-robber-iii) |
 | [2707-extra-characters-in-a-string](https://github.com/Gautamcodes24/LeetCode/tree/master/2707-extra-characters-in-a-string) |
@@ -316,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0047-permutations-ii](https://github.com/Gautamcodes24/LeetCode/tree/master/0047-permutations-ii) |
 | [0079-word-search](https://github.com/Gautamcodes24/LeetCode/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/Gautamcodes24/LeetCode/tree/master/0090-subsets-ii) |
+| [0131-palindrome-partitioning](https://github.com/Gautamcodes24/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Gautamcodes24/LeetCode/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Bit Manipulation
 |  |
