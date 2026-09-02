@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0705-design-hashset](https://github.com/Gautamcodes24/LeetCode/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/Gautamcodes24/LeetCode/tree/master/0706-design-hashmap) |
 | [0739-daily-temperatures](https://github.com/Gautamcodes24/LeetCode/tree/master/0739-daily-temperatures) |
+| [0867-transpose-matrix](https://github.com/Gautamcodes24/LeetCode/tree/master/0867-transpose-matrix) |
 | [1472-design-browser-history](https://github.com/Gautamcodes24/LeetCode/tree/master/1472-design-browser-history) |
 | [1480-running-sum-of-1d-array](https://github.com/Gautamcodes24/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Gautamcodes24/LeetCode/tree/master/1863-sum-of-all-subset-xor-totals) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Simulation
 |  |
 | ------- |
+| [0867-transpose-matrix](https://github.com/Gautamcodes24/LeetCode/tree/master/0867-transpose-matrix) |
 | [1929-concatenation-of-array](https://github.com/Gautamcodes24/LeetCode/tree/master/1929-concatenation-of-array) |
 ## Tree
 |  |
@@ -256,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0036-valid-sudoku](https://github.com/Gautamcodes24/LeetCode/tree/master/0036-valid-sudoku) |
 | [0079-word-search](https://github.com/Gautamcodes24/LeetCode/tree/master/0079-word-search) |
+| [0867-transpose-matrix](https://github.com/Gautamcodes24/LeetCode/tree/master/0867-transpose-matrix) |
 ## Binary Search Tree
 |  |
 | ------- |
