@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2707-extra-characters-in-a-string](https://github.com/Gautamcodes24/LeetCode/tree/master/2707-extra-characters-in-a-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Gautamcodes24/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Gautamcodes24/LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3898-find-the-degree-of-each-vertex](https://github.com/Gautamcodes24/LeetCode/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Simulation
 |  |
 | ------- |
@@ -262,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0036-valid-sudoku](https://github.com/Gautamcodes24/LeetCode/tree/master/0036-valid-sudoku) |
 | [0079-word-search](https://github.com/Gautamcodes24/LeetCode/tree/master/0079-word-search) |
 | [0867-transpose-matrix](https://github.com/Gautamcodes24/LeetCode/tree/master/0867-transpose-matrix) |
+| [3898-find-the-degree-of-each-vertex](https://github.com/Gautamcodes24/LeetCode/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -373,4 +375,8 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0140-word-break-ii](https://github.com/Gautamcodes24/LeetCode/tree/master/0140-word-break-ii) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/Gautamcodes24/LeetCode/tree/master/0698-partition-to-k-equal-sum-subsets) |
+## Graph Theory
+|  |
+| ------- |
+| [3898-find-the-degree-of-each-vertex](https://github.com/Gautamcodes24/LeetCode/tree/master/3898-find-the-degree-of-each-vertex) |
 <!---LeetCode Topics End-->
