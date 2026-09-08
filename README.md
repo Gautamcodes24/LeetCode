@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Gautamcodes24/LeetCode/tree/master/0050-powx-n) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Gautamcodes24/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0202-happy-number](https://github.com/Gautamcodes24/LeetCode/tree/master/0202-happy-number) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Gautamcodes24/LeetCode/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1922-count-good-numbers](https://github.com/Gautamcodes24/LeetCode/tree/master/1922-count-good-numbers) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0090-subsets-ii](https://github.com/Gautamcodes24/LeetCode/tree/master/0090-subsets-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/Gautamcodes24/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0140-word-break-ii](https://github.com/Gautamcodes24/LeetCode/tree/master/0140-word-break-ii) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Gautamcodes24/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/Gautamcodes24/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Gautamcodes24/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0216-combination-sum-iii](https://github.com/Gautamcodes24/LeetCode/tree/master/0216-combination-sum-iii) |
@@ -219,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0020-valid-parentheses](https://github.com/Gautamcodes24/LeetCode/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Gautamcodes24/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Gautamcodes24/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0739-daily-temperatures](https://github.com/Gautamcodes24/LeetCode/tree/master/0739-daily-temperatures) |
 | [1472-design-browser-history](https://github.com/Gautamcodes24/LeetCode/tree/master/1472-design-browser-history) |
 ## Bracket Sequences
