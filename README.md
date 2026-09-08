@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0560-subarray-sum-equals-k](https://github.com/Gautamcodes24/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0705-design-hashset](https://github.com/Gautamcodes24/LeetCode/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/Gautamcodes24/LeetCode/tree/master/0706-design-hashmap) |
+| [0997-find-the-town-judge](https://github.com/Gautamcodes24/LeetCode/tree/master/0997-find-the-town-judge) |
 | [2707-extra-characters-in-a-string](https://github.com/Gautamcodes24/LeetCode/tree/master/2707-extra-characters-in-a-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Gautamcodes24/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Gautamcodes24/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0706-design-hashmap](https://github.com/Gautamcodes24/LeetCode/tree/master/0706-design-hashmap) |
 | [0739-daily-temperatures](https://github.com/Gautamcodes24/LeetCode/tree/master/0739-daily-temperatures) |
 | [0867-transpose-matrix](https://github.com/Gautamcodes24/LeetCode/tree/master/0867-transpose-matrix) |
+| [0997-find-the-town-judge](https://github.com/Gautamcodes24/LeetCode/tree/master/0997-find-the-town-judge) |
 | [1472-design-browser-history](https://github.com/Gautamcodes24/LeetCode/tree/master/1472-design-browser-history) |
 | [1480-running-sum-of-1d-array](https://github.com/Gautamcodes24/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Gautamcodes24/LeetCode/tree/master/1863-sum-of-all-subset-xor-totals) |
@@ -379,6 +381,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Graph Theory
 |  |
 | ------- |
+| [0997-find-the-town-judge](https://github.com/Gautamcodes24/LeetCode/tree/master/0997-find-the-town-judge) |
 | [1791-find-center-of-star-graph](https://github.com/Gautamcodes24/LeetCode/tree/master/1791-find-center-of-star-graph) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/Gautamcodes24/LeetCode/tree/master/3898-find-the-degree-of-each-vertex) |
 <!---LeetCode Topics End-->
