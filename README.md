@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0739-daily-temperatures](https://github.com/Gautamcodes24/LeetCode/tree/master/0739-daily-temperatures) |
 | [0867-transpose-matrix](https://github.com/Gautamcodes24/LeetCode/tree/master/0867-transpose-matrix) |
 | [0997-find-the-town-judge](https://github.com/Gautamcodes24/LeetCode/tree/master/0997-find-the-town-judge) |
+| [1020-number-of-enclaves](https://github.com/Gautamcodes24/LeetCode/tree/master/1020-number-of-enclaves) |
 | [1472-design-browser-history](https://github.com/Gautamcodes24/LeetCode/tree/master/1472-design-browser-history) |
 | [1480-running-sum-of-1d-array](https://github.com/Gautamcodes24/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Gautamcodes24/LeetCode/tree/master/1863-sum-of-all-subset-xor-totals) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0547-number-of-provinces](https://github.com/Gautamcodes24/LeetCode/tree/master/0547-number-of-provinces) |
 | [0572-subtree-of-another-tree](https://github.com/Gautamcodes24/LeetCode/tree/master/0572-subtree-of-another-tree) |
 | [0733-flood-fill](https://github.com/Gautamcodes24/LeetCode/tree/master/0733-flood-fill) |
+| [1020-number-of-enclaves](https://github.com/Gautamcodes24/LeetCode/tree/master/1020-number-of-enclaves) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Gautamcodes24/LeetCode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Gautamcodes24/LeetCode/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Breadth-First Search
@@ -165,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0449-serialize-and-deserialize-bst](https://github.com/Gautamcodes24/LeetCode/tree/master/0449-serialize-and-deserialize-bst) |
 | [0547-number-of-provinces](https://github.com/Gautamcodes24/LeetCode/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/Gautamcodes24/LeetCode/tree/master/0733-flood-fill) |
+| [1020-number-of-enclaves](https://github.com/Gautamcodes24/LeetCode/tree/master/1020-number-of-enclaves) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Gautamcodes24/LeetCode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Gautamcodes24/LeetCode/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Binary Tree
@@ -287,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0200-number-of-islands](https://github.com/Gautamcodes24/LeetCode/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/Gautamcodes24/LeetCode/tree/master/0733-flood-fill) |
 | [0867-transpose-matrix](https://github.com/Gautamcodes24/LeetCode/tree/master/0867-transpose-matrix) |
+| [1020-number-of-enclaves](https://github.com/Gautamcodes24/LeetCode/tree/master/1020-number-of-enclaves) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/Gautamcodes24/LeetCode/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Binary Search Tree
 |  |
@@ -387,6 +391,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0128-longest-consecutive-sequence](https://github.com/Gautamcodes24/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/Gautamcodes24/LeetCode/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Gautamcodes24/LeetCode/tree/master/0547-number-of-provinces) |
+| [1020-number-of-enclaves](https://github.com/Gautamcodes24/LeetCode/tree/master/1020-number-of-enclaves) |
 ## Bitmask
 |  |
 | ------- |
