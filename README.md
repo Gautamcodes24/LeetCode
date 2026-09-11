@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0705-design-hashset](https://github.com/Gautamcodes24/LeetCode/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/Gautamcodes24/LeetCode/tree/master/0706-design-hashmap) |
 | [0997-find-the-town-judge](https://github.com/Gautamcodes24/LeetCode/tree/master/0997-find-the-town-judge) |
+| [2094-finding-3-digit-even-numbers](https://github.com/Gautamcodes24/LeetCode/tree/master/2094-finding-3-digit-even-numbers) |
 | [2707-extra-characters-in-a-string](https://github.com/Gautamcodes24/LeetCode/tree/master/2707-extra-characters-in-a-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Gautamcodes24/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Gautamcodes24/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Gautamcodes24/LeetCode/tree/master/1863-sum-of-all-subset-xor-totals) |
+| [2094-finding-3-digit-even-numbers](https://github.com/Gautamcodes24/LeetCode/tree/master/2094-finding-3-digit-even-numbers) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Gautamcodes24/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Gautamcodes24/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 ## Array
@@ -85,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1480-running-sum-of-1d-array](https://github.com/Gautamcodes24/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Gautamcodes24/LeetCode/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1929-concatenation-of-array](https://github.com/Gautamcodes24/LeetCode/tree/master/1929-concatenation-of-array) |
+| [2094-finding-3-digit-even-numbers](https://github.com/Gautamcodes24/LeetCode/tree/master/2094-finding-3-digit-even-numbers) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Gautamcodes24/LeetCode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/Gautamcodes24/LeetCode/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2707-extra-characters-in-a-string](https://github.com/Gautamcodes24/LeetCode/tree/master/2707-extra-characters-in-a-string) |
@@ -268,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0050-powx-n](https://github.com/Gautamcodes24/LeetCode/tree/master/0050-powx-n) |
 | [1922-count-good-numbers](https://github.com/Gautamcodes24/LeetCode/tree/master/1922-count-good-numbers) |
+| [2094-finding-3-digit-even-numbers](https://github.com/Gautamcodes24/LeetCode/tree/master/2094-finding-3-digit-even-numbers) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Gautamcodes24/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 ## DP on Trees
 |  |
@@ -338,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0047-permutations-ii](https://github.com/Gautamcodes24/LeetCode/tree/master/0047-permutations-ii) |
+| [2094-finding-3-digit-even-numbers](https://github.com/Gautamcodes24/LeetCode/tree/master/2094-finding-3-digit-even-numbers) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/Gautamcodes24/LeetCode/tree/master/2300-successful-pairs-of-spells-and-potions) |
 ## Doubly-Linked List
 |  |
