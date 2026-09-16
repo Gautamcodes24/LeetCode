@@ -151,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0547-number-of-provinces](https://github.com/Gautamcodes24/LeetCode/tree/master/0547-number-of-provinces) |
 | [0572-subtree-of-another-tree](https://github.com/Gautamcodes24/LeetCode/tree/master/0572-subtree-of-another-tree) |
 | [0733-flood-fill](https://github.com/Gautamcodes24/LeetCode/tree/master/0733-flood-fill) |
+| [0785-is-graph-bipartite](https://github.com/Gautamcodes24/LeetCode/tree/master/0785-is-graph-bipartite) |
 | [1020-number-of-enclaves](https://github.com/Gautamcodes24/LeetCode/tree/master/1020-number-of-enclaves) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Gautamcodes24/LeetCode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Gautamcodes24/LeetCode/tree/master/1448-count-good-nodes-in-binary-tree) |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0449-serialize-and-deserialize-bst](https://github.com/Gautamcodes24/LeetCode/tree/master/0449-serialize-and-deserialize-bst) |
 | [0547-number-of-provinces](https://github.com/Gautamcodes24/LeetCode/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/Gautamcodes24/LeetCode/tree/master/0733-flood-fill) |
+| [0785-is-graph-bipartite](https://github.com/Gautamcodes24/LeetCode/tree/master/0785-is-graph-bipartite) |
 | [1020-number-of-enclaves](https://github.com/Gautamcodes24/LeetCode/tree/master/1020-number-of-enclaves) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Gautamcodes24/LeetCode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Gautamcodes24/LeetCode/tree/master/1448-count-good-nodes-in-binary-tree) |
@@ -396,6 +398,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0128-longest-consecutive-sequence](https://github.com/Gautamcodes24/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/Gautamcodes24/LeetCode/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Gautamcodes24/LeetCode/tree/master/0547-number-of-provinces) |
+| [0785-is-graph-bipartite](https://github.com/Gautamcodes24/LeetCode/tree/master/0785-is-graph-bipartite) |
 | [1020-number-of-enclaves](https://github.com/Gautamcodes24/LeetCode/tree/master/1020-number-of-enclaves) |
 ## Bitmask
 |  |
@@ -416,7 +419,16 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/Gautamcodes24/LeetCode/tree/master/0547-number-of-provinces) |
+| [0785-is-graph-bipartite](https://github.com/Gautamcodes24/LeetCode/tree/master/0785-is-graph-bipartite) |
 | [0997-find-the-town-judge](https://github.com/Gautamcodes24/LeetCode/tree/master/0997-find-the-town-judge) |
 | [1791-find-center-of-star-graph](https://github.com/Gautamcodes24/LeetCode/tree/master/1791-find-center-of-star-graph) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/Gautamcodes24/LeetCode/tree/master/3898-find-the-degree-of-each-vertex) |
+## Graph Coloring
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/Gautamcodes24/LeetCode/tree/master/0785-is-graph-bipartite) |
+## Bipartite Graph
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/Gautamcodes24/LeetCode/tree/master/0785-is-graph-bipartite) |
 <!---LeetCode Topics End-->
