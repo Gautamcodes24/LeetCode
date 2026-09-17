@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0473-matchsticks-to-square](https://github.com/Gautamcodes24/LeetCode/tree/master/0473-matchsticks-to-square) |
 | [0560-subarray-sum-equals-k](https://github.com/Gautamcodes24/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0605-can-place-flowers](https://github.com/Gautamcodes24/LeetCode/tree/master/0605-can-place-flowers) |
+| [0695-max-area-of-island](https://github.com/Gautamcodes24/LeetCode/tree/master/0695-max-area-of-island) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/Gautamcodes24/LeetCode/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0705-design-hashset](https://github.com/Gautamcodes24/LeetCode/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/Gautamcodes24/LeetCode/tree/master/0706-design-hashmap) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0543-diameter-of-binary-tree](https://github.com/Gautamcodes24/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/Gautamcodes24/LeetCode/tree/master/0547-number-of-provinces) |
 | [0572-subtree-of-another-tree](https://github.com/Gautamcodes24/LeetCode/tree/master/0572-subtree-of-another-tree) |
+| [0695-max-area-of-island](https://github.com/Gautamcodes24/LeetCode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Gautamcodes24/LeetCode/tree/master/0733-flood-fill) |
 | [0785-is-graph-bipartite](https://github.com/Gautamcodes24/LeetCode/tree/master/0785-is-graph-bipartite) |
 | [1020-number-of-enclaves](https://github.com/Gautamcodes24/LeetCode/tree/master/1020-number-of-enclaves) |
@@ -170,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Gautamcodes24/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0449-serialize-and-deserialize-bst](https://github.com/Gautamcodes24/LeetCode/tree/master/0449-serialize-and-deserialize-bst) |
 | [0547-number-of-provinces](https://github.com/Gautamcodes24/LeetCode/tree/master/0547-number-of-provinces) |
+| [0695-max-area-of-island](https://github.com/Gautamcodes24/LeetCode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Gautamcodes24/LeetCode/tree/master/0733-flood-fill) |
 | [0785-is-graph-bipartite](https://github.com/Gautamcodes24/LeetCode/tree/master/0785-is-graph-bipartite) |
 | [1020-number-of-enclaves](https://github.com/Gautamcodes24/LeetCode/tree/master/1020-number-of-enclaves) |
@@ -295,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0073-set-matrix-zeroes](https://github.com/Gautamcodes24/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/Gautamcodes24/LeetCode/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/Gautamcodes24/LeetCode/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/Gautamcodes24/LeetCode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Gautamcodes24/LeetCode/tree/master/0733-flood-fill) |
 | [0867-transpose-matrix](https://github.com/Gautamcodes24/LeetCode/tree/master/0867-transpose-matrix) |
 | [1020-number-of-enclaves](https://github.com/Gautamcodes24/LeetCode/tree/master/1020-number-of-enclaves) |
@@ -398,6 +402,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0128-longest-consecutive-sequence](https://github.com/Gautamcodes24/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/Gautamcodes24/LeetCode/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Gautamcodes24/LeetCode/tree/master/0547-number-of-provinces) |
+| [0695-max-area-of-island](https://github.com/Gautamcodes24/LeetCode/tree/master/0695-max-area-of-island) |
 | [0785-is-graph-bipartite](https://github.com/Gautamcodes24/LeetCode/tree/master/0785-is-graph-bipartite) |
 | [1020-number-of-enclaves](https://github.com/Gautamcodes24/LeetCode/tree/master/1020-number-of-enclaves) |
 ## Bitmask
