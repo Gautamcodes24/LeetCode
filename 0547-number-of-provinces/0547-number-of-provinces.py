@@ -1,24 +1,15 @@
 class Solution:
-    def dfs(self,node,adj,visit):
+    def dfs(self,node,visit,adj):
         visit[node] = True
-        for n in adj[node]:
-            if not visit[n]:
-                self.dfs(n,adj,visit)
-
+        for i in range(len(adj[node])):
+            if adj[node][i] == 1 and not visit[i]:
+                self.dfs(i,visit,adj)
     def findCircleNum(self, isConnected: List[List[int]]) -> int:
-        V = len(isConnected)
         count = 0
+        V = len(isConnected)
         visit = [False] * V
-        adj_array = [[] for _ in range(V)]
         for i in range(V):
-            for j in range(V):
-                if isConnected[i][j] == 1 and i != j:
-                    adj_array[i].append(j)
-        for node in range(V):
-            if not visit[node]:
+            if not visit[i]:
                 count += 1
-                self.dfs(node,adj_array,visit)
+                self.dfs(i,visit,isConnected)
         return count
-
-
-        
