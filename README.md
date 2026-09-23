@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0706-design-hashmap](https://github.com/Gautamcodes24/LeetCode/tree/master/0706-design-hashmap) |
 | [0929-unique-email-addresses](https://github.com/Gautamcodes24/LeetCode/tree/master/0929-unique-email-addresses) |
 | [0997-find-the-town-judge](https://github.com/Gautamcodes24/LeetCode/tree/master/0997-find-the-town-judge) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/Gautamcodes24/LeetCode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [2094-finding-3-digit-even-numbers](https://github.com/Gautamcodes24/LeetCode/tree/master/2094-finding-3-digit-even-numbers) |
 | [2707-extra-characters-in-a-string](https://github.com/Gautamcodes24/LeetCode/tree/master/2707-extra-characters-in-a-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Gautamcodes24/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/Gautamcodes24/LeetCode/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1472-design-browser-history](https://github.com/Gautamcodes24/LeetCode/tree/master/1472-design-browser-history) |
 | [1480-running-sum-of-1d-array](https://github.com/Gautamcodes24/LeetCode/tree/master/1480-running-sum-of-1d-array) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/Gautamcodes24/LeetCode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Gautamcodes24/LeetCode/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1929-concatenation-of-array](https://github.com/Gautamcodes24/LeetCode/tree/master/1929-concatenation-of-array) |
 | [2094-finding-3-digit-even-numbers](https://github.com/Gautamcodes24/LeetCode/tree/master/2094-finding-3-digit-even-numbers) |
@@ -253,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0424-longest-repeating-character-replacement](https://github.com/Gautamcodes24/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0449-serialize-and-deserialize-bst](https://github.com/Gautamcodes24/LeetCode/tree/master/0449-serialize-and-deserialize-bst) |
 | [0929-unique-email-addresses](https://github.com/Gautamcodes24/LeetCode/tree/master/0929-unique-email-addresses) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/Gautamcodes24/LeetCode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Gautamcodes24/LeetCode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2255-count-prefixes-of-a-given-string](https://github.com/Gautamcodes24/LeetCode/tree/master/2255-count-prefixes-of-a-given-string) |
 | [2707-extra-characters-in-a-string](https://github.com/Gautamcodes24/LeetCode/tree/master/2707-extra-characters-in-a-string) |
@@ -411,6 +414,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0090-subsets-ii](https://github.com/Gautamcodes24/LeetCode/tree/master/0090-subsets-ii) |
 | [0473-matchsticks-to-square](https://github.com/Gautamcodes24/LeetCode/tree/master/0473-matchsticks-to-square) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/Gautamcodes24/LeetCode/tree/master/0698-partition-to-k-equal-sum-subsets) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/Gautamcodes24/LeetCode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Gautamcodes24/LeetCode/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Combinatorics
 |  |
@@ -463,5 +467,6 @@ A collection of LeetCode questions to ace the coding interview!
 ## Counting
 |  |
 | ------- |
+| [1684-count-the-number-of-consistent-strings](https://github.com/Gautamcodes24/LeetCode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [3184-count-pairs-that-form-a-complete-day-i](https://github.com/Gautamcodes24/LeetCode/tree/master/3184-count-pairs-that-form-a-complete-day-i) |
 <!---LeetCode Topics End-->
