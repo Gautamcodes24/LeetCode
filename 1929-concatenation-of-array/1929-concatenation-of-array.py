@@ -1,5 +1,9 @@
 class Solution:
-    def getConcatenation(self, nums: List[int]) -> List[int]:
-        new_array = nums
-        new_array2 = nums
-        return new_array + new_array2
+    def getConcatenation(self, nums: list[int]) -> list[int]:
+        ans = [0 for _ in range(len(nums) * 2)]
+        n = len(nums)
+        for i in range(len(nums)):
+            ans[i] = nums[i]
+            ans[n+i] = nums[i]
+        return ans
+        
