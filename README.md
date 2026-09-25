@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0001-two-sum](https://github.com/Gautamcodes24/LeetCode/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/Gautamcodes24/LeetCode/tree/master/0011-container-with-most-water) |
+| [0014-longest-common-prefix](https://github.com/Gautamcodes24/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0036-valid-sudoku](https://github.com/Gautamcodes24/LeetCode/tree/master/0036-valid-sudoku) |
 | [0039-combination-sum](https://github.com/Gautamcodes24/LeetCode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Gautamcodes24/LeetCode/tree/master/0040-combination-sum-ii) |
@@ -251,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Gautamcodes24/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Gautamcodes24/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/Gautamcodes24/LeetCode/tree/master/0020-valid-parentheses) |
 | [0079-word-search](https://github.com/Gautamcodes24/LeetCode/tree/master/0079-word-search) |
@@ -379,6 +381,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Trie
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Gautamcodes24/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0140-word-break-ii](https://github.com/Gautamcodes24/LeetCode/tree/master/0140-word-break-ii) |
 | [0208-implement-trie-prefix-tree](https://github.com/Gautamcodes24/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/Gautamcodes24/LeetCode/tree/master/0211-design-add-and-search-words-data-structure) |
