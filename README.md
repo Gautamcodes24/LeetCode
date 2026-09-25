@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0140-word-break-ii](https://github.com/Gautamcodes24/LeetCode/tree/master/0140-word-break-ii) |
 | [0202-happy-number](https://github.com/Gautamcodes24/LeetCode/tree/master/0202-happy-number) |
 | [0208-implement-trie-prefix-tree](https://github.com/Gautamcodes24/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
+| [0217-contains-duplicate](https://github.com/Gautamcodes24/LeetCode/tree/master/0217-contains-duplicate) |
 | [0424-longest-repeating-character-replacement](https://github.com/Gautamcodes24/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0560-subarray-sum-equals-k](https://github.com/Gautamcodes24/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0705-design-hashset](https://github.com/Gautamcodes24/LeetCode/tree/master/0705-design-hashset) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Gautamcodes24/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0200-number-of-islands](https://github.com/Gautamcodes24/LeetCode/tree/master/0200-number-of-islands) |
 | [0216-combination-sum-iii](https://github.com/Gautamcodes24/LeetCode/tree/master/0216-combination-sum-iii) |
+| [0217-contains-duplicate](https://github.com/Gautamcodes24/LeetCode/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Gautamcodes24/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0473-matchsticks-to-square](https://github.com/Gautamcodes24/LeetCode/tree/master/0473-matchsticks-to-square) |
 | [0560-subarray-sum-equals-k](https://github.com/Gautamcodes24/LeetCode/tree/master/0560-subarray-sum-equals-k) |
@@ -382,6 +384,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0047-permutations-ii](https://github.com/Gautamcodes24/LeetCode/tree/master/0047-permutations-ii) |
 | [0088-merge-sorted-array](https://github.com/Gautamcodes24/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0217-contains-duplicate](https://github.com/Gautamcodes24/LeetCode/tree/master/0217-contains-duplicate) |
 | [2094-finding-3-digit-even-numbers](https://github.com/Gautamcodes24/LeetCode/tree/master/2094-finding-3-digit-even-numbers) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/Gautamcodes24/LeetCode/tree/master/2300-successful-pairs-of-spells-and-potions) |
 ## Doubly-Linked List
