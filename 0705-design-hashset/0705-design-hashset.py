@@ -2,6 +2,7 @@ class MyHashSet:
 
     def __init__(self):
         self.hashset = [False] * 1000001
+
         
 
     def add(self, key: int) -> None:
@@ -10,7 +11,6 @@ class MyHashSet:
 
     def remove(self, key: int) -> None:
         self.hashset[key] = False
-
         
 
     def contains(self, key: int) -> bool:
