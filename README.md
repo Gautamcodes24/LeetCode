@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0073-set-matrix-zeroes](https://github.com/Gautamcodes24/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/Gautamcodes24/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0140-word-break-ii](https://github.com/Gautamcodes24/LeetCode/tree/master/0140-word-break-ii) |
+| [0169-majority-element](https://github.com/Gautamcodes24/LeetCode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/Gautamcodes24/LeetCode/tree/master/0202-happy-number) |
 | [0208-implement-trie-prefix-tree](https://github.com/Gautamcodes24/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
 | [0217-contains-duplicate](https://github.com/Gautamcodes24/LeetCode/tree/master/0217-contains-duplicate) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0150-evaluate-reverse-polish-notation](https://github.com/Gautamcodes24/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/Gautamcodes24/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Gautamcodes24/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0169-majority-element](https://github.com/Gautamcodes24/LeetCode/tree/master/0169-majority-element) |
 | [0200-number-of-islands](https://github.com/Gautamcodes24/LeetCode/tree/master/0200-number-of-islands) |
 | [0216-combination-sum-iii](https://github.com/Gautamcodes24/LeetCode/tree/master/0216-combination-sum-iii) |
 | [0217-contains-duplicate](https://github.com/Gautamcodes24/LeetCode/tree/master/0217-contains-duplicate) |
@@ -397,6 +399,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0047-permutations-ii](https://github.com/Gautamcodes24/LeetCode/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/Gautamcodes24/LeetCode/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/Gautamcodes24/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/Gautamcodes24/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Gautamcodes24/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Gautamcodes24/LeetCode/tree/master/0242-valid-anagram) |
 | [2094-finding-3-digit-even-numbers](https://github.com/Gautamcodes24/LeetCode/tree/master/2094-finding-3-digit-even-numbers) |
@@ -483,9 +486,15 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Gautamcodes24/LeetCode/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/Gautamcodes24/LeetCode/tree/master/0169-majority-element) |
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Gautamcodes24/LeetCode/tree/master/0169-majority-element) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Gautamcodes24/LeetCode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [3184-count-pairs-that-form-a-complete-day-i](https://github.com/Gautamcodes24/LeetCode/tree/master/3184-count-pairs-that-form-a-complete-day-i) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Gautamcodes24/LeetCode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
