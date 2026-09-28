@@ -1,14 +1,14 @@
 class Solution:
     def subarraySum(self, nums: List[int], k: int) -> int:
-        hm = {0:1}
-        ans = 0
-        curr_sum = 0
-        for num in nums:
-            curr_sum += num
-            need = curr_sum - k
-            if need in hm:
-                ans += hm.get(need)
-            hm[curr_sum] = hm.get(curr_sum,0)+1
-        return ans
+        count = 0
+        curr = 0
+        seen = {0:1}
+        for r in range(len(nums)):
+            curr += nums[r]
+            need = curr - k
+            if need in seen:
+                count += seen[need]
+            seen[curr] = seen.get(curr,0) +1
+        return count
 
-            
+        
