@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0061-rotate-list](https://github.com/Gautamcodes24/LeetCode/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/Gautamcodes24/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Gautamcodes24/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/Gautamcodes24/LeetCode/tree/master/0125-valid-palindrome) |
 | [0202-happy-number](https://github.com/Gautamcodes24/LeetCode/tree/master/0202-happy-number) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/Gautamcodes24/LeetCode/tree/master/2300-successful-pairs-of-spells-and-potions) |
 ## Floyd's Cycle Finding Algorithm
@@ -267,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0020-valid-parentheses](https://github.com/Gautamcodes24/LeetCode/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/Gautamcodes24/LeetCode/tree/master/0049-group-anagrams) |
 | [0079-word-search](https://github.com/Gautamcodes24/LeetCode/tree/master/0079-word-search) |
+| [0125-valid-palindrome](https://github.com/Gautamcodes24/LeetCode/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/Gautamcodes24/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0140-word-break-ii](https://github.com/Gautamcodes24/LeetCode/tree/master/0140-word-break-ii) |
 | [0208-implement-trie-prefix-tree](https://github.com/Gautamcodes24/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
