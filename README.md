@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Gautamcodes24/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/Gautamcodes24/LeetCode/tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/Gautamcodes24/LeetCode/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/Gautamcodes24/LeetCode/tree/master/0042-trapping-rain-water) |
@@ -269,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Gautamcodes24/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0014-longest-common-prefix](https://github.com/Gautamcodes24/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Gautamcodes24/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/Gautamcodes24/LeetCode/tree/master/0020-valid-parentheses) |
@@ -319,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Gautamcodes24/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/Gautamcodes24/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Gautamcodes24/LeetCode/tree/master/0053-maximum-subarray) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Gautamcodes24/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -540,4 +543,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Gautamcodes24/LeetCode/tree/master/0347-top-k-frequent-elements) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/Gautamcodes24/LeetCode/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
