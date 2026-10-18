@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0050-powx-n](https://github.com/Gautamcodes24/LeetCode/tree/master/0050-powx-n) |
 | [0070-climbing-stairs](https://github.com/Gautamcodes24/LeetCode/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Gautamcodes24/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0168-excel-sheet-column-title](https://github.com/Gautamcodes24/LeetCode/tree/master/0168-excel-sheet-column-title) |
 | [0202-happy-number](https://github.com/Gautamcodes24/LeetCode/tree/master/0202-happy-number) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/Gautamcodes24/LeetCode/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1360-number-of-days-between-two-dates](https://github.com/Gautamcodes24/LeetCode/tree/master/1360-number-of-days-between-two-dates) |
@@ -289,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0125-valid-palindrome](https://github.com/Gautamcodes24/LeetCode/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/Gautamcodes24/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0140-word-break-ii](https://github.com/Gautamcodes24/LeetCode/tree/master/0140-word-break-ii) |
+| [0168-excel-sheet-column-title](https://github.com/Gautamcodes24/LeetCode/tree/master/0168-excel-sheet-column-title) |
 | [0208-implement-trie-prefix-tree](https://github.com/Gautamcodes24/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/Gautamcodes24/LeetCode/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0242-valid-anagram](https://github.com/Gautamcodes24/LeetCode/tree/master/0242-valid-anagram) |
