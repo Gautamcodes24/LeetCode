@@ -1,20 +1,16 @@
 from collections import defaultdict
 class Solution:
-    def isValidSudoku(self, board: list[list[str]]) -> bool:
-        sqaure = defaultdict(set)
-        row = defaultdict(set)
-        col = defaultdict(set)
-        for i in range(9):
-            for j in range(9):
-                if board[i][j] == ".":
+    def isValidSudoku(self, board: List[List[str]]) -> bool:
+        rows = defaultdict(set)
+        cols = defaultdict(set)
+        sqr = defaultdict(set)
+        for row in range(9):
+            for col in range(9):
+                if board[row][col] == ".":
                     continue
-                ele = board[i][j]
-                if ele in row[i] or ele in col[j] or ele in sqaure[(i//3,j//3)]:
+                if board[row][col] in rows[row] or board[row][col] in cols[col] or board[row][col] in sqr[(row//3,col//3)]:
                     return False
-                row[i].add(ele)
-                col[j].add(ele)
-                sqaure[(i//3,j//3)].add(ele)
+                rows[row].add(board[row][col])
+                cols[col].add(board[row][col])
+                sqr[(row//3,col//3)].add(board[row][col])
         return True
-
-
-        
