@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0053-maximum-subarray](https://github.com/Gautamcodes24/LeetCode/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/Gautamcodes24/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Gautamcodes24/LeetCode/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/Gautamcodes24/LeetCode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Gautamcodes24/LeetCode/tree/master/0079-word-search) |
 | [0088-merge-sorted-array](https://github.com/Gautamcodes24/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/Gautamcodes24/LeetCode/tree/master/0090-subsets-ii) |
@@ -470,6 +471,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0047-permutations-ii](https://github.com/Gautamcodes24/LeetCode/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/Gautamcodes24/LeetCode/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/Gautamcodes24/LeetCode/tree/master/0052-n-queens-ii) |
+| [0078-subsets](https://github.com/Gautamcodes24/LeetCode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Gautamcodes24/LeetCode/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/Gautamcodes24/LeetCode/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/Gautamcodes24/LeetCode/tree/master/0131-palindrome-partitioning) |
@@ -481,6 +483,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/Gautamcodes24/LeetCode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Gautamcodes24/LeetCode/tree/master/0090-subsets-ii) |
 | [0473-matchsticks-to-square](https://github.com/Gautamcodes24/LeetCode/tree/master/0473-matchsticks-to-square) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/Gautamcodes24/LeetCode/tree/master/0698-partition-to-k-equal-sum-subsets) |
