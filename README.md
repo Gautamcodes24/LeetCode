@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1360-number-of-days-between-two-dates](https://github.com/Gautamcodes24/LeetCode/tree/master/1360-number-of-days-between-two-dates) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Gautamcodes24/LeetCode/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1922-count-good-numbers](https://github.com/Gautamcodes24/LeetCode/tree/master/1922-count-good-numbers) |
+| [2409-count-days-spent-together](https://github.com/Gautamcodes24/LeetCode/tree/master/2409-count-days-spent-together) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Gautamcodes24/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Gautamcodes24/LeetCode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Gautamcodes24/LeetCode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
@@ -306,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1684-count-the-number-of-consistent-strings](https://github.com/Gautamcodes24/LeetCode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Gautamcodes24/LeetCode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2255-count-prefixes-of-a-given-string](https://github.com/Gautamcodes24/LeetCode/tree/master/2255-count-prefixes-of-a-given-string) |
+| [2409-count-days-spent-together](https://github.com/Gautamcodes24/LeetCode/tree/master/2409-count-days-spent-together) |
 | [2707-extra-characters-in-a-string](https://github.com/Gautamcodes24/LeetCode/tree/master/2707-extra-characters-in-a-string) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Gautamcodes24/LeetCode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Gautamcodes24/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
