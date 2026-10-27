@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0994-rotting-oranges](https://github.com/Gautamcodes24/LeetCode/tree/master/0994-rotting-oranges) |
 | [0997-find-the-town-judge](https://github.com/Gautamcodes24/LeetCode/tree/master/0997-find-the-town-judge) |
 | [1020-number-of-enclaves](https://github.com/Gautamcodes24/LeetCode/tree/master/1020-number-of-enclaves) |
+| [1046-last-stone-weight](https://github.com/Gautamcodes24/LeetCode/tree/master/1046-last-stone-weight) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/Gautamcodes24/LeetCode/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1472-design-browser-history](https://github.com/Gautamcodes24/LeetCode/tree/master/1472-design-browser-history) |
 | [1480-running-sum-of-1d-array](https://github.com/Gautamcodes24/LeetCode/tree/master/1480-running-sum-of-1d-array) |
@@ -573,6 +574,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Gautamcodes24/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Gautamcodes24/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [1046-last-stone-weight](https://github.com/Gautamcodes24/LeetCode/tree/master/1046-last-stone-weight) |
 ## Bucket Sort
 |  |
 | ------- |
