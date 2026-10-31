@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0238-product-of-array-except-self](https://github.com/Gautamcodes24/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/Gautamcodes24/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0473-matchsticks-to-square](https://github.com/Gautamcodes24/LeetCode/tree/master/0473-matchsticks-to-square) |
+| [0502-ipo](https://github.com/Gautamcodes24/LeetCode/tree/master/0502-ipo) |
 | [0560-subarray-sum-equals-k](https://github.com/Gautamcodes24/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0605-can-place-flowers](https://github.com/Gautamcodes24/LeetCode/tree/master/0605-can-place-flowers) |
 | [0621-task-scheduler](https://github.com/Gautamcodes24/LeetCode/tree/master/0621-task-scheduler) |
@@ -411,6 +412,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0011-container-with-most-water](https://github.com/Gautamcodes24/LeetCode/tree/master/0011-container-with-most-water) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Gautamcodes24/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0502-ipo](https://github.com/Gautamcodes24/LeetCode/tree/master/0502-ipo) |
 | [0605-can-place-flowers](https://github.com/Gautamcodes24/LeetCode/tree/master/0605-can-place-flowers) |
 | [0621-task-scheduler](https://github.com/Gautamcodes24/LeetCode/tree/master/0621-task-scheduler) |
 ## Segment Tree
@@ -464,6 +466,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0229-majority-element-ii](https://github.com/Gautamcodes24/LeetCode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Gautamcodes24/LeetCode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Gautamcodes24/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0502-ipo](https://github.com/Gautamcodes24/LeetCode/tree/master/0502-ipo) |
 | [0621-task-scheduler](https://github.com/Gautamcodes24/LeetCode/tree/master/0621-task-scheduler) |
 | [1094-car-pooling](https://github.com/Gautamcodes24/LeetCode/tree/master/1094-car-pooling) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Gautamcodes24/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -587,6 +590,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0215-kth-largest-element-in-an-array](https://github.com/Gautamcodes24/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Gautamcodes24/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0355-design-twitter](https://github.com/Gautamcodes24/LeetCode/tree/master/0355-design-twitter) |
+| [0502-ipo](https://github.com/Gautamcodes24/LeetCode/tree/master/0502-ipo) |
 | [0621-task-scheduler](https://github.com/Gautamcodes24/LeetCode/tree/master/0621-task-scheduler) |
 | [1046-last-stone-weight](https://github.com/Gautamcodes24/LeetCode/tree/master/1046-last-stone-weight) |
 | [1094-car-pooling](https://github.com/Gautamcodes24/LeetCode/tree/master/1094-car-pooling) |
