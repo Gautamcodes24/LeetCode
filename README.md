@@ -316,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0449-serialize-and-deserialize-bst](https://github.com/Gautamcodes24/LeetCode/tree/master/0449-serialize-and-deserialize-bst) |
 | [0929-unique-email-addresses](https://github.com/Gautamcodes24/LeetCode/tree/master/0929-unique-email-addresses) |
 | [1360-number-of-days-between-two-dates](https://github.com/Gautamcodes24/LeetCode/tree/master/1360-number-of-days-between-two-dates) |
+| [1405-longest-happy-string](https://github.com/Gautamcodes24/LeetCode/tree/master/1405-longest-happy-string) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Gautamcodes24/LeetCode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Gautamcodes24/LeetCode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2255-count-prefixes-of-a-given-string](https://github.com/Gautamcodes24/LeetCode/tree/master/2255-count-prefixes-of-a-given-string) |
@@ -415,6 +416,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0502-ipo](https://github.com/Gautamcodes24/LeetCode/tree/master/0502-ipo) |
 | [0605-can-place-flowers](https://github.com/Gautamcodes24/LeetCode/tree/master/0605-can-place-flowers) |
 | [0621-task-scheduler](https://github.com/Gautamcodes24/LeetCode/tree/master/0621-task-scheduler) |
+| [1405-longest-happy-string](https://github.com/Gautamcodes24/LeetCode/tree/master/1405-longest-happy-string) |
 ## Segment Tree
 |  |
 | ------- |
@@ -594,6 +596,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0621-task-scheduler](https://github.com/Gautamcodes24/LeetCode/tree/master/0621-task-scheduler) |
 | [1046-last-stone-weight](https://github.com/Gautamcodes24/LeetCode/tree/master/1046-last-stone-weight) |
 | [1094-car-pooling](https://github.com/Gautamcodes24/LeetCode/tree/master/1094-car-pooling) |
+| [1405-longest-happy-string](https://github.com/Gautamcodes24/LeetCode/tree/master/1405-longest-happy-string) |
 ## Bucket Sort
 |  |
 | ------- |
