@@ -136,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0997-find-the-town-judge](https://github.com/Gautamcodes24/LeetCode/tree/master/0997-find-the-town-judge) |
 | [1020-number-of-enclaves](https://github.com/Gautamcodes24/LeetCode/tree/master/1020-number-of-enclaves) |
 | [1046-last-stone-weight](https://github.com/Gautamcodes24/LeetCode/tree/master/1046-last-stone-weight) |
+| [1094-car-pooling](https://github.com/Gautamcodes24/LeetCode/tree/master/1094-car-pooling) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/Gautamcodes24/LeetCode/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1472-design-browser-history](https://github.com/Gautamcodes24/LeetCode/tree/master/1472-design-browser-history) |
 | [1480-running-sum-of-1d-array](https://github.com/Gautamcodes24/LeetCode/tree/master/1480-running-sum-of-1d-array) |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0867-transpose-matrix](https://github.com/Gautamcodes24/LeetCode/tree/master/0867-transpose-matrix) |
+| [1094-car-pooling](https://github.com/Gautamcodes24/LeetCode/tree/master/1094-car-pooling) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/Gautamcodes24/LeetCode/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1929-concatenation-of-array](https://github.com/Gautamcodes24/LeetCode/tree/master/1929-concatenation-of-array) |
 | [2293-min-max-game](https://github.com/Gautamcodes24/LeetCode/tree/master/2293-min-max-game) |
@@ -438,6 +440,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Gautamcodes24/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/Gautamcodes24/LeetCode/tree/master/0560-subarray-sum-equals-k) |
+| [1094-car-pooling](https://github.com/Gautamcodes24/LeetCode/tree/master/1094-car-pooling) |
 | [1480-running-sum-of-1d-array](https://github.com/Gautamcodes24/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 ## Trie
 |  |
@@ -462,6 +465,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0242-valid-anagram](https://github.com/Gautamcodes24/LeetCode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Gautamcodes24/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/Gautamcodes24/LeetCode/tree/master/0621-task-scheduler) |
+| [1094-car-pooling](https://github.com/Gautamcodes24/LeetCode/tree/master/1094-car-pooling) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Gautamcodes24/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2094-finding-3-digit-even-numbers](https://github.com/Gautamcodes24/LeetCode/tree/master/2094-finding-3-digit-even-numbers) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/Gautamcodes24/LeetCode/tree/master/2300-successful-pairs-of-spells-and-potions) |
@@ -585,6 +589,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0355-design-twitter](https://github.com/Gautamcodes24/LeetCode/tree/master/0355-design-twitter) |
 | [0621-task-scheduler](https://github.com/Gautamcodes24/LeetCode/tree/master/0621-task-scheduler) |
 | [1046-last-stone-weight](https://github.com/Gautamcodes24/LeetCode/tree/master/1046-last-stone-weight) |
+| [1094-car-pooling](https://github.com/Gautamcodes24/LeetCode/tree/master/1094-car-pooling) |
 ## Bucket Sort
 |  |
 | ------- |
