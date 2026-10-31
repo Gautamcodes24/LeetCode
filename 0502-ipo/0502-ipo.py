@@ -1,5 +1,7 @@
 class Solution:
     def findMaximizedCapital(self, k: int, w: int, profits: List[int], capital: List[int]) -> int:
+        if w >= max(capital):
+            return sum(heapq.nlargest(k,profits))+w
         minHeap = [(c,p) for c , p in zip(capital,profits)]
         heapq.heapify(minHeap)
         maxHeap = []
