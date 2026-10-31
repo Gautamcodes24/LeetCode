@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0621-task-scheduler](https://github.com/Gautamcodes24/LeetCode/tree/master/0621-task-scheduler) |
 | [0705-design-hashset](https://github.com/Gautamcodes24/LeetCode/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/Gautamcodes24/LeetCode/tree/master/0706-design-hashmap) |
+| [0767-reorganize-string](https://github.com/Gautamcodes24/LeetCode/tree/master/0767-reorganize-string) |
 | [0929-unique-email-addresses](https://github.com/Gautamcodes24/LeetCode/tree/master/0929-unique-email-addresses) |
 | [0997-find-the-town-judge](https://github.com/Gautamcodes24/LeetCode/tree/master/0997-find-the-town-judge) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Gautamcodes24/LeetCode/tree/master/1684-count-the-number-of-consistent-strings) |
@@ -314,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0344-reverse-string](https://github.com/Gautamcodes24/LeetCode/tree/master/0344-reverse-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/Gautamcodes24/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0449-serialize-and-deserialize-bst](https://github.com/Gautamcodes24/LeetCode/tree/master/0449-serialize-and-deserialize-bst) |
+| [0767-reorganize-string](https://github.com/Gautamcodes24/LeetCode/tree/master/0767-reorganize-string) |
 | [0929-unique-email-addresses](https://github.com/Gautamcodes24/LeetCode/tree/master/0929-unique-email-addresses) |
 | [1360-number-of-days-between-two-dates](https://github.com/Gautamcodes24/LeetCode/tree/master/1360-number-of-days-between-two-dates) |
 | [1405-longest-happy-string](https://github.com/Gautamcodes24/LeetCode/tree/master/1405-longest-happy-string) |
@@ -416,6 +418,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0502-ipo](https://github.com/Gautamcodes24/LeetCode/tree/master/0502-ipo) |
 | [0605-can-place-flowers](https://github.com/Gautamcodes24/LeetCode/tree/master/0605-can-place-flowers) |
 | [0621-task-scheduler](https://github.com/Gautamcodes24/LeetCode/tree/master/0621-task-scheduler) |
+| [0767-reorganize-string](https://github.com/Gautamcodes24/LeetCode/tree/master/0767-reorganize-string) |
 | [1405-longest-happy-string](https://github.com/Gautamcodes24/LeetCode/tree/master/1405-longest-happy-string) |
 ## Segment Tree
 |  |
@@ -470,6 +473,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0347-top-k-frequent-elements](https://github.com/Gautamcodes24/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0502-ipo](https://github.com/Gautamcodes24/LeetCode/tree/master/0502-ipo) |
 | [0621-task-scheduler](https://github.com/Gautamcodes24/LeetCode/tree/master/0621-task-scheduler) |
+| [0767-reorganize-string](https://github.com/Gautamcodes24/LeetCode/tree/master/0767-reorganize-string) |
 | [1094-car-pooling](https://github.com/Gautamcodes24/LeetCode/tree/master/1094-car-pooling) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Gautamcodes24/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2094-finding-3-digit-even-numbers](https://github.com/Gautamcodes24/LeetCode/tree/master/2094-finding-3-digit-even-numbers) |
@@ -571,6 +575,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0229-majority-element-ii](https://github.com/Gautamcodes24/LeetCode/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Gautamcodes24/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/Gautamcodes24/LeetCode/tree/master/0621-task-scheduler) |
+| [0767-reorganize-string](https://github.com/Gautamcodes24/LeetCode/tree/master/0767-reorganize-string) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Gautamcodes24/LeetCode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [3184-count-pairs-that-form-a-complete-day-i](https://github.com/Gautamcodes24/LeetCode/tree/master/3184-count-pairs-that-form-a-complete-day-i) |
 ## Boyer–Moore Majority Vote Algorithm
@@ -594,6 +599,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0355-design-twitter](https://github.com/Gautamcodes24/LeetCode/tree/master/0355-design-twitter) |
 | [0502-ipo](https://github.com/Gautamcodes24/LeetCode/tree/master/0502-ipo) |
 | [0621-task-scheduler](https://github.com/Gautamcodes24/LeetCode/tree/master/0621-task-scheduler) |
+| [0767-reorganize-string](https://github.com/Gautamcodes24/LeetCode/tree/master/0767-reorganize-string) |
 | [1046-last-stone-weight](https://github.com/Gautamcodes24/LeetCode/tree/master/1046-last-stone-weight) |
 | [1094-car-pooling](https://github.com/Gautamcodes24/LeetCode/tree/master/1094-car-pooling) |
 | [1405-longest-happy-string](https://github.com/Gautamcodes24/LeetCode/tree/master/1405-longest-happy-string) |
