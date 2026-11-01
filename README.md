@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0217-contains-duplicate](https://github.com/Gautamcodes24/LeetCode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Gautamcodes24/LeetCode/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/Gautamcodes24/LeetCode/tree/master/0238-product-of-array-except-self) |
+| [0304-range-sum-query-2d-immutable](https://github.com/Gautamcodes24/LeetCode/tree/master/0304-range-sum-query-2d-immutable) |
 | [0347-top-k-frequent-elements](https://github.com/Gautamcodes24/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0473-matchsticks-to-square](https://github.com/Gautamcodes24/LeetCode/tree/master/0473-matchsticks-to-square) |
 | [0502-ipo](https://github.com/Gautamcodes24/LeetCode/tree/master/0502-ipo) |
@@ -282,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0208-implement-trie-prefix-tree](https://github.com/Gautamcodes24/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/Gautamcodes24/LeetCode/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Gautamcodes24/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0304-range-sum-query-2d-immutable](https://github.com/Gautamcodes24/LeetCode/tree/master/0304-range-sum-query-2d-immutable) |
 | [0355-design-twitter](https://github.com/Gautamcodes24/LeetCode/tree/master/0355-design-twitter) |
 | [0449-serialize-and-deserialize-bst](https://github.com/Gautamcodes24/LeetCode/tree/master/0449-serialize-and-deserialize-bst) |
 | [0705-design-hashset](https://github.com/Gautamcodes24/LeetCode/tree/master/0705-design-hashset) |
@@ -393,6 +395,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0073-set-matrix-zeroes](https://github.com/Gautamcodes24/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/Gautamcodes24/LeetCode/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/Gautamcodes24/LeetCode/tree/master/0200-number-of-islands) |
+| [0304-range-sum-query-2d-immutable](https://github.com/Gautamcodes24/LeetCode/tree/master/0304-range-sum-query-2d-immutable) |
 | [0695-max-area-of-island](https://github.com/Gautamcodes24/LeetCode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Gautamcodes24/LeetCode/tree/master/0733-flood-fill) |
 | [0867-transpose-matrix](https://github.com/Gautamcodes24/LeetCode/tree/master/0867-transpose-matrix) |
@@ -446,6 +449,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Gautamcodes24/LeetCode/tree/master/0238-product-of-array-except-self) |
+| [0304-range-sum-query-2d-immutable](https://github.com/Gautamcodes24/LeetCode/tree/master/0304-range-sum-query-2d-immutable) |
 | [0560-subarray-sum-equals-k](https://github.com/Gautamcodes24/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [1094-car-pooling](https://github.com/Gautamcodes24/LeetCode/tree/master/1094-car-pooling) |
 | [1480-running-sum-of-1d-array](https://github.com/Gautamcodes24/LeetCode/tree/master/1480-running-sum-of-1d-array) |
