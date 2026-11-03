@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0706-design-hashmap](https://github.com/Gautamcodes24/LeetCode/tree/master/0706-design-hashmap) |
 | [0767-reorganize-string](https://github.com/Gautamcodes24/LeetCode/tree/master/0767-reorganize-string) |
 | [0929-unique-email-addresses](https://github.com/Gautamcodes24/LeetCode/tree/master/0929-unique-email-addresses) |
+| [0953-verifying-an-alien-dictionary](https://github.com/Gautamcodes24/LeetCode/tree/master/0953-verifying-an-alien-dictionary) |
 | [0997-find-the-town-judge](https://github.com/Gautamcodes24/LeetCode/tree/master/0997-find-the-town-judge) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Gautamcodes24/LeetCode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [2094-finding-3-digit-even-numbers](https://github.com/Gautamcodes24/LeetCode/tree/master/2094-finding-3-digit-even-numbers) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0739-daily-temperatures](https://github.com/Gautamcodes24/LeetCode/tree/master/0739-daily-temperatures) |
 | [0867-transpose-matrix](https://github.com/Gautamcodes24/LeetCode/tree/master/0867-transpose-matrix) |
 | [0929-unique-email-addresses](https://github.com/Gautamcodes24/LeetCode/tree/master/0929-unique-email-addresses) |
+| [0953-verifying-an-alien-dictionary](https://github.com/Gautamcodes24/LeetCode/tree/master/0953-verifying-an-alien-dictionary) |
 | [0994-rotting-oranges](https://github.com/Gautamcodes24/LeetCode/tree/master/0994-rotting-oranges) |
 | [0997-find-the-town-judge](https://github.com/Gautamcodes24/LeetCode/tree/master/0997-find-the-town-judge) |
 | [1020-number-of-enclaves](https://github.com/Gautamcodes24/LeetCode/tree/master/1020-number-of-enclaves) |
@@ -319,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0449-serialize-and-deserialize-bst](https://github.com/Gautamcodes24/LeetCode/tree/master/0449-serialize-and-deserialize-bst) |
 | [0767-reorganize-string](https://github.com/Gautamcodes24/LeetCode/tree/master/0767-reorganize-string) |
 | [0929-unique-email-addresses](https://github.com/Gautamcodes24/LeetCode/tree/master/0929-unique-email-addresses) |
+| [0953-verifying-an-alien-dictionary](https://github.com/Gautamcodes24/LeetCode/tree/master/0953-verifying-an-alien-dictionary) |
 | [1360-number-of-days-between-two-dates](https://github.com/Gautamcodes24/LeetCode/tree/master/1360-number-of-days-between-two-dates) |
 | [1405-longest-happy-string](https://github.com/Gautamcodes24/LeetCode/tree/master/1405-longest-happy-string) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Gautamcodes24/LeetCode/tree/master/1684-count-the-number-of-consistent-strings) |
