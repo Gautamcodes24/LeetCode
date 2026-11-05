@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0621-task-scheduler](https://github.com/Gautamcodes24/LeetCode/tree/master/0621-task-scheduler) |
 | [0705-design-hashset](https://github.com/Gautamcodes24/LeetCode/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/Gautamcodes24/LeetCode/tree/master/0706-design-hashmap) |
+| [0752-open-the-lock](https://github.com/Gautamcodes24/LeetCode/tree/master/0752-open-the-lock) |
 | [0767-reorganize-string](https://github.com/Gautamcodes24/LeetCode/tree/master/0767-reorganize-string) |
 | [0929-unique-email-addresses](https://github.com/Gautamcodes24/LeetCode/tree/master/0929-unique-email-addresses) |
 | [0953-verifying-an-alien-dictionary](https://github.com/Gautamcodes24/LeetCode/tree/master/0953-verifying-an-alien-dictionary) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0706-design-hashmap](https://github.com/Gautamcodes24/LeetCode/tree/master/0706-design-hashmap) |
 | [0733-flood-fill](https://github.com/Gautamcodes24/LeetCode/tree/master/0733-flood-fill) |
 | [0739-daily-temperatures](https://github.com/Gautamcodes24/LeetCode/tree/master/0739-daily-temperatures) |
+| [0752-open-the-lock](https://github.com/Gautamcodes24/LeetCode/tree/master/0752-open-the-lock) |
 | [0867-transpose-matrix](https://github.com/Gautamcodes24/LeetCode/tree/master/0867-transpose-matrix) |
 | [0929-unique-email-addresses](https://github.com/Gautamcodes24/LeetCode/tree/master/0929-unique-email-addresses) |
 | [0953-verifying-an-alien-dictionary](https://github.com/Gautamcodes24/LeetCode/tree/master/0953-verifying-an-alien-dictionary) |
@@ -240,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0547-number-of-provinces](https://github.com/Gautamcodes24/LeetCode/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/Gautamcodes24/LeetCode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Gautamcodes24/LeetCode/tree/master/0733-flood-fill) |
+| [0752-open-the-lock](https://github.com/Gautamcodes24/LeetCode/tree/master/0752-open-the-lock) |
 | [0785-is-graph-bipartite](https://github.com/Gautamcodes24/LeetCode/tree/master/0785-is-graph-bipartite) |
 | [0994-rotting-oranges](https://github.com/Gautamcodes24/LeetCode/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/Gautamcodes24/LeetCode/tree/master/1020-number-of-enclaves) |
@@ -319,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0344-reverse-string](https://github.com/Gautamcodes24/LeetCode/tree/master/0344-reverse-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/Gautamcodes24/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0449-serialize-and-deserialize-bst](https://github.com/Gautamcodes24/LeetCode/tree/master/0449-serialize-and-deserialize-bst) |
+| [0752-open-the-lock](https://github.com/Gautamcodes24/LeetCode/tree/master/0752-open-the-lock) |
 | [0767-reorganize-string](https://github.com/Gautamcodes24/LeetCode/tree/master/0767-reorganize-string) |
 | [0929-unique-email-addresses](https://github.com/Gautamcodes24/LeetCode/tree/master/0929-unique-email-addresses) |
 | [0953-verifying-an-alien-dictionary](https://github.com/Gautamcodes24/LeetCode/tree/master/0953-verifying-an-alien-dictionary) |
@@ -623,4 +627,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Gautamcodes24/LeetCode/tree/master/0005-longest-palindromic-substring) |
+## Bidirectional Search
+|  |
+| ------- |
+| [0752-open-the-lock](https://github.com/Gautamcodes24/LeetCode/tree/master/0752-open-the-lock) |
 <!---LeetCode Topics End-->
