@@ -341,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1360-number-of-days-between-two-dates](https://github.com/Gautamcodes24/LeetCode/tree/master/1360-number-of-days-between-two-dates) |
 | [1405-longest-happy-string](https://github.com/Gautamcodes24/LeetCode/tree/master/1405-longest-happy-string) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Gautamcodes24/LeetCode/tree/master/1684-count-the-number-of-consistent-strings) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/Gautamcodes24/LeetCode/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Gautamcodes24/LeetCode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2255-count-prefixes-of-a-given-string](https://github.com/Gautamcodes24/LeetCode/tree/master/2255-count-prefixes-of-a-given-string) |
 | [2409-count-days-spent-together](https://github.com/Gautamcodes24/LeetCode/tree/master/2409-count-days-spent-together) |
