@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1922-count-good-numbers](https://github.com/Gautamcodes24/LeetCode/tree/master/1922-count-good-numbers) |
 | [2409-count-days-spent-together](https://github.com/Gautamcodes24/LeetCode/tree/master/2409-count-days-spent-together) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Gautamcodes24/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3360-stone-removal-game](https://github.com/Gautamcodes24/LeetCode/tree/master/3360-stone-removal-game) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Gautamcodes24/LeetCode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Gautamcodes24/LeetCode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3870-count-commas-in-range](https://github.com/Gautamcodes24/LeetCode/tree/master/3870-count-commas-in-range) |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/Gautamcodes24/LeetCode/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1929-concatenation-of-array](https://github.com/Gautamcodes24/LeetCode/tree/master/1929-concatenation-of-array) |
 | [2293-min-max-game](https://github.com/Gautamcodes24/LeetCode/tree/master/2293-min-max-game) |
+| [3360-stone-removal-game](https://github.com/Gautamcodes24/LeetCode/tree/master/3360-stone-removal-game) |
 | [3498-reverse-degree-of-a-string](https://github.com/Gautamcodes24/LeetCode/tree/master/3498-reverse-degree-of-a-string) |
 ## Tree
 |  |
